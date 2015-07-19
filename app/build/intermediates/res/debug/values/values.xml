@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/mnt/data/Dev/StudioProjects/android-webview-studio/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Android Mobile App Sample</string>
+    <string name="hello">Hello World, AndroidMobileAppSampleActivity!</string>
+</resources>
