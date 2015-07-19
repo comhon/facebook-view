@@ -29,10 +29,10 @@ ADDED from AndroidManifest.xml:8:5
 application
 ADDED from AndroidManifest.xml:10:5
 	android:label
-		ADDED from AndroidManifest.xml:10:48
+		ADDED from AndroidManifest.xml:10:55
 	android:icon
 		ADDED from AndroidManifest.xml:10:18
-activity#tscolari.mobile_sample.AndroidMobileAppSampleActivity
+activity#comhon.facebookview.FacebookActivity
 ADDED from AndroidManifest.xml:11:9
 	android:label
 		ADDED from AndroidManifest.xml:12:19

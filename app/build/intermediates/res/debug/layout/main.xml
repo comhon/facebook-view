@@ -3,8 +3,9 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
-    <WebView android:layout_width="match_parent" 
-      android:layout_height="match_parent" 
+
+    <WebView android:layout_width="match_parent"
+      android:layout_height="match_parent"
       android:id="@+id/mainWebView">
      </WebView>
-</LinearLayout><!-- From: file:/mnt/data/Dev/StudioProjects/android-webview-studio/app/src/main/res/layout/main.xml -->
+</LinearLayout><!-- From: file:/mnt/data/Dev/StudioProjects/FacebookView/app/src/main/res/layout/main.xml -->

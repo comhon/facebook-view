@@ -11,10 +11,10 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:icon="@drawable/icon"
+        android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
         <activity
-            android:name="tscolari.mobile_sample.AndroidMobileAppSampleActivity"
+            android:name="comhon.facebookview.FacebookActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

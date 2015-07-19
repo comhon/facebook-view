@@ -9,8 +9,8 @@
         <option name="gradleJvm" value="1.7" />
         <option name="modules">
           <set>
-            <option value="/mnt/data/Dev/StudioProjects/android-webview-studio" />
-            <option value="/mnt/data/Dev/StudioProjects/android-webview-studio/app" />
+            <option value="/mnt/data/Dev/StudioProjects/FacebookView" />
+            <option value="/mnt/data/Dev/StudioProjects/FacebookView/app" />
           </set>
         </option>
       </GradleProjectSettings>
